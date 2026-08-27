@@ -1,0 +1,4 @@
+keys/
+outbox/
+ledger.jsonl
+NOTES.private.md
